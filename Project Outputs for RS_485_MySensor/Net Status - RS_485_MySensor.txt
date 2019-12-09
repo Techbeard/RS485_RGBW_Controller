@@ -1,0 +1,46 @@
+Net Status Report
+Filename     : D:\Documents\GitHub\RS_485_MySensor\RS_485_MySensor.PcbDoc
+Date         : 04.02.2019
+Time         : 21:55:23
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +5V, Signal Layers Only, 1792.479mils
+    GND, Signal Layers Only, 954.97mils
+    NetC10_1, Signal Layers Only, 0mils
+    NetC10_2, Signal Layers Only, 0mils
+    NetC14_2, Signal Layers Only, 723.203mils
+    NetC5_1, Signal Layers Only, 75.32mils
+    NetC6_1, Signal Layers Only, 429.565mils
+    NetC7_1, Signal Layers Only, 331.26mils
+    NetC8_1, Signal Layers Only, 431.419mils
+    NetC8_2, Signal Layers Only, 243.86mils
+    NetC8_3, Signal Layers Only, 279.767mils
+    NetC8_5, Signal Layers Only, 1913.154mils
+    NetIC1_4, Signal Layers Only, 0mils
+    NetIC2_1, Signal Layers Only, 678.692mils
+    NetIC2_2, Signal Layers Only, 780.305mils
+    NetIC2_4, Signal Layers Only, 542.095mils
+    NetIC2_6, Signal Layers Only, 525.483mils
+    NetIC2_7, Signal Layers Only, 692.05mils
+    NetJ1_1, Signal Layers Only, 0mils
+    NetJ1_2, Signal Layers Only, 5mils
+    NetJ3_1, Signal Layers Only, 0mils
+    NetJ3_2, Signal Layers Only, 0mils
+    NetJ4_2, Signal Layers Only, 1057.41mils
+    NetJ4_3, Signal Layers Only, 1480.119mils
+    NetJ5_10, Signal Layers Only, 675.272mils
+    NetJ5_12, Signal Layers Only, 579.993mils
+    NetJ5_3, Signal Layers Only, 1215.83mils
+    NetJ5_4, Signal Layers Only, 1408.995mils
+    NetJ5_5, Signal Layers Only, 774.244mils
+    NetJ5_6, Signal Layers Only, 847.616mils
+    NetJ5_8, Signal Layers Only, 762.226mils
+    NetJ6_1, Signal Layers Only, 3504.987mils
+    NetJ6_3, Signal Layers Only, 2983.818mils
+    NetJ8_4, Signal Layers Only, 1144.02mils
+    NetJ8_5, Signal Layers Only, 1177.843mils
+    NetR5_2, Signal Layers Only, 1531.412mils
+    NetR7_2, Signal Layers Only, 1205.849mils
+    VCC, Signal Layers Only, 306.89mils
+count : 38
